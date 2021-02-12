@@ -57,7 +57,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/bednakovdenis/CTP/blob/main/info/Screenshot_5.png">
+  <img src="https://github.com/bednakovdenis/CTP/blob/main/info/Screenshot_6.png">
 </p>
 
 
